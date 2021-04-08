@@ -11,3 +11,5 @@ Setting up a project with expo
 7. Navigate to the project you just created and **yarn start**
 8. The terminal will spin up the environment and allow connection to android, web or iOS
 9. pressing press a, i or w to get expo to connect to android, iOS or web, respectively. It may take a while.
+
+Open the project in your IDE of choice. Expo will check and refresh the files and build live
